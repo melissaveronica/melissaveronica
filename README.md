@@ -13,16 +13,30 @@ Exchange alumni @ Korea University 🇰🇷 Fall 2024
 ## 🛠 Tech Stack
 
 **Web**
-[![Web Skills](https://skillicons.dev/icons?i=laravel,js,html,css,mysql)](https://skillicons.dev)
+
+![Laravel](https://img.shields.io/badge/Laravel-E88EA0?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5D78E?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F4A87C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-A0BEE8?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8EC4E8?style=for-the-badge&logo=mysql&logoColor=white)
 
 **AI & Data**
-[![AI Skills](https://skillicons.dev/icons?i=python,pytorch)](https://skillicons.dev) `R` `Deep Learning`
+
+![Python](https://img.shields.io/badge/Python-A8B8E8?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-F4A0A0?style=for-the-badge&logo=pytorch&logoColor=white)
+![R](https://img.shields.io/badge/R-A8B8E8?style=for-the-badge&logo=r&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-F4B8A8?style=for-the-badge&logoColor=white)
 
 **Design**
-[![Design Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+
+![Figma](https://img.shields.io/badge/Figma-E8A0C0?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-A0C8F5?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 **Other**
-[![Other Skills](https://skillicons.dev/icons?i=cs,kotlin)](https://skillicons.dev) `Design Thinking`
+
+![C#](https://img.shields.io/badge/C%23-A0D4A8?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-C4A8F4?style=for-the-badge&logo=kotlin&logoColor=white)
+![Design Thinking](https://img.shields.io/badge/Design%20Thinking-F4B8A8?style=for-the-badge&logoColor=white)
 
 ---
 
