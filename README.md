@@ -59,6 +59,7 @@ Exchange alumni @ Korea University 🇰🇷 Fall 2024
 🇮🇩 Indonesian — Native  
 🇬🇧 English — IELTS 7.0  
 🇨🇳 Mandarin — Novice (I'm going to 天津大学 to learn Mandarin this semester!)
+
 🇰🇷 Korean — Novice  
 
 ---
