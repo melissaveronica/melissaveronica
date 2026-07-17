@@ -67,6 +67,7 @@ Exchange alumni @ Korea University 🇰🇷 Fall 2024
 
 - ARSM diploma in Piano Performance (Highest Distinction in Surabaya, 2024) 🎹
 - ARAD diploma in Ballet (Merit) 🩰
+- I'm a Piano and Ballet teacher
 
 ---
 
